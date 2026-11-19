@@ -5,3 +5,5 @@ Practice for the Nepal Engineering Council (NEC) Computer Engineering license ex
 Open it at **https://newamacha.github.io/nec-mcq-practice/**
 
 Your answers are saved in your own browser only.
+
+Also here: **IOE M.Sc. Structural entrance practice** at https://newamacha.github.io/nec-mcq-practice/msc-structural/
